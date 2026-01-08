@@ -7,3 +7,6 @@
 [![asciicast](https://asciinema.org/a/f1KXvY9LLnIy2sS6CPxnbD328.svg)](https://asciinema.org/a/f1KXvY9LLnIy2sS6CPxnbD328)
 Аскинема с примером установки пакета, запуска игры "Калькулятор", победой и поражением игрока:
 [![asciicast](https://asciinema.org/a/oNE4r107x16dAPYB.svg)](https://asciinema.org/a/oNE4r107x16dAPYB)
+
+Аскинема с примером установки пакета, запуска игры "Наибольший общий делитель (НОД)", победой и поражением игрока:
+[![asciicast](https://asciinema.org/a/E0RROoJ2NfcSdOcb.svg)](https://asciinema.org/a/E0RROoJ2NfcSdOcb)
