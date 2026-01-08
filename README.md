@@ -3,5 +3,7 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=NataBakh_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=NataBakh_frontend-project-44)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NataBakh_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NataBakh_frontend-project-44)
 
-Аскинема с примером установки пакета, запуска игры, победой и поражением игрока:
- https://asciinema.org/connect/e725f84d-a61f-49cd-bc60-c6afe887c30c
+Аскинема с примером установки пакета, запуска игры "Проверка на четность", победой и поражением игрока:
+[![asciicast](https://asciinema.org/a/f1KXvY9LLnIy2sS6CPxnbD328.svg)](https://asciinema.org/a/f1KXvY9LLnIy2sS6CPxnbD328)
+Аскинема с примером установки пакета, запуска игры "Калькулятор", победой и поражением игрока:
+[![asciicast](https://asciinema.org/a/oNE4r107x16dAPYB.svg)](https://asciinema.org/a/oNE4r107x16dAPYB)
