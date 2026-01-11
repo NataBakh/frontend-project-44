@@ -24,7 +24,7 @@ const calculateAnswer = () => {
       resultExpession = num1 * num2
   }
 
-  console.log(`Question: ${num1}${operator}${num2}`)
+  console.log(`Question: ${num1} ${operator} ${num2}`)
   // console.log(resultExpession)
   return resultExpession
 }
