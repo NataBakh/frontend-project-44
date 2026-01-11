@@ -50,4 +50,5 @@ const startGameCalc = () => {
   const myGreeting = 'What is the result of the expression?'
   game(myGreeting, checkAnswer)
 }
+
 export default startGameCalc
