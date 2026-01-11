@@ -57,3 +57,6 @@ Let's try again, Sam!
 
 Аскинема c запуском игры "Арифметическая прогрессия", победой и поражением игрока:
 [![asciicast](https://asciinema.org/a/SZ7rZJ61n0tGdboa.svg)](https://asciinema.org/a/SZ7rZJ61n0tGdboa)
+
+Аскинема c запуском игры "Простое ли число?", победой и поражением игрока:
+[![asciicast](https://asciinema.org/a/0OuLVi5gRBhbTEwR.svg)](https://asciinema.org/a/0OuLVi5gRBhbTEwR)
