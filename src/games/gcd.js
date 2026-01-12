@@ -34,9 +34,9 @@ const checkAnswer = () => {
   }
 }
 
-const startGameGsd = () => {
+const startGameGcd = () => {
   const myGreeting = 'Find the greatest common divisor of given numbers'
   game(myGreeting, checkAnswer)
 }
 
-export default startGameGsd
+export default startGameGcd
