@@ -1,9 +1,6 @@
 import readlineSync from 'readline-sync'
+import getRandomIntInclusive from '../common_function.js'
 import game from '../index.js'
-
-const getRandomIntInclusive = (min, max) => {
-  return Math.floor(Math.random() * ((max - min) + 1) + min)
-}
 
 const calculateAnswer = () => {
   let num1 = getRandomIntInclusive(1, 100)

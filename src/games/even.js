@@ -1,11 +1,7 @@
 // импортируем библиотеку 'readline-sync'
 import readlineSync from 'readline-sync'
+import getRandomIntInclusive from '../common_function.js'
 import game from '../index.js'
-
-// пишем функцию, возвращающую случайное число от 1 до 100
-const getRandomIntInclusive = (min, max) => {
-  return Math.floor(Math.random() * ((max - min) + 1) + min)
-}
 
 const calculateAnswer = () => {
   let randomInt = getRandomIntInclusive(1, 100)

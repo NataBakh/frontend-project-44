@@ -8,12 +8,14 @@ const getUserName = () => {
   return userName
 }
 
+const rounds = 3
+
 const game = (greeting, roundResult) => {
   let userName = getUserName()
   console.log(greeting)
   let roundCount = 0
-  let rounds = 3
-  while (roundCount < rounds) {
+
+  for (roundCount; roundCount < rounds;) {
     if (roundResult()) {
       console.log('Correct!')
       roundCount++
@@ -23,12 +25,11 @@ const game = (greeting, roundResult) => {
       console.log(`Let's try again, ${userName}!`)
       return
     }
-  }
 
-  if (roundCount === rounds) {
-    console.log(`Congratulations, ${userName}!`)
-    return
+    if (roundCount === rounds) {
+      console.log(`Congratulations, ${userName}!`)
+      return
+    }
   }
 }
-
 export default game
